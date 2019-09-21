@@ -1,0 +1,29 @@
+/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+Instructions for MAC USERS
+/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+
+
+Step 1 - Listen to me talking
+
+
+https://www.anaconda.com/distribution/
+
+https://dialogflow.com/
+
+---------------------------------------
+Commands for Anaconda 
+---------------------------------------
+
+pip install SpeechRecognition
+pip install pyttsx3
+pip install pync
+pip install apiai
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install portaudio
+pip install PyAudio
+
+**In case of Visual Studio Error:
+
+
+https://go.microsoft.com/fwlink/?LinkId=691126
+--------------------------------------------------------------------
